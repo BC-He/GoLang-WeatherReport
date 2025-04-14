@@ -8,7 +8,7 @@ import (
 	"net/http"
 )
 
-const apiKey = "7bfcb18a3f8e2c58263cb76d6d561b13" // Replace this with your OpenWeatherMap API key
+const apiKey = "123abc" // Replace this with your OpenWeatherMap API key
 
 type WeatherResponse struct {
 	Main struct {
